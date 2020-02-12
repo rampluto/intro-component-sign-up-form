@@ -1,1 +1,30 @@
 
+.title{
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  color:white;
+  z-index: 1;
+  padding:220px 200px 20px 200px;
+}
+img{
+  position: absolute;
+  width:100%;
+  z-index: -1;
+  height:100%;
+}
+.content{
+  color:white;
+  padding: 0px 200px 0px 200px;
+}
+.tryit{
+
+  margin-top: -600px;
+  margin-left: 700px;
+}
+.form-section{
+  box-shadow: 1px 1px 3px 3px white;
+  padding:20px;
+  background-color: white;
+  width:470px;
+  margin: -250px 50px 50px 700px;
+}
